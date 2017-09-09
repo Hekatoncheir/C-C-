@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/GitHub/repository/third_experiment/test7/_3_(9).cpp
+iostream
+-
+_3_(9).h
+D:/GitHub/repository/third_experiment/test7/_3_(9).h
+
+D:/GitHub/repository/third_experiment/test7/_3_(9).h
+vector
+-
+
+D:/GitHub/repository/third_experiment/test7/_3_(9)PR.cpp
+iostream
+-
+vector
+-
+cmath
+-
+_3_(9).h
+D:/GitHub/repository/third_experiment/test7/_3_(9).h
+

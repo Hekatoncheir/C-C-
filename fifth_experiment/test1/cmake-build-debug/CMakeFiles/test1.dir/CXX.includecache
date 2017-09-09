@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/GitHub/repository/fifth_experiment/test1/_5_(1).cpp
+iostream
+-
+_5_(1).h
+D:/GitHub/repository/fifth_experiment/test1/_5_(1).h
+
+D:/GitHub/repository/fifth_experiment/test1/_5_(1).h
+
+D:/GitHub/repository/fifth_experiment/test1/_5_(1)PR.cpp
+iostream
+-
+_5_(1).h
+D:/GitHub/repository/fifth_experiment/test1/_5_(1).h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub/repository/curriculum_design/list/list.cpp
+iostream
+-
+list.h
+E:/GitHub/repository/curriculum_design/list/list.h
+
+E:/GitHub/repository/curriculum_design/list/list.h
+
+E:/GitHub/repository/curriculum_design/list/list_PR.cpp
+list.h
+E:/GitHub/repository/curriculum_design/list/list.h
+iostream
+-
+

@@ -1,0 +1,4 @@
+D:\jetbrains\Cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\GitHub\repository\third_experiment\test3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/GitHub/repository/third_experiment/test3/cmake-build-debug

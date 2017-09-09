@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub/repository/curriculum_design/function1/function1.cpp
+iostream
+-
+function1.h
+E:/GitHub/repository/curriculum_design/function1/function1.h
+
+E:/GitHub/repository/curriculum_design/function1/function1.h
+
+E:/GitHub/repository/curriculum_design/function1/function1_PR.cpp
+function1.h
+E:/GitHub/repository/curriculum_design/function1/function1.h
+ctime
+-
+iostream
+-
+

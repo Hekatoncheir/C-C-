@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub/repository/curriculum_design/Box/array.h
+rpc.h
+-
+
+E:/GitHub/repository/curriculum_design/Box/main.cpp
+mybox.h
+E:/GitHub/repository/curriculum_design/Box/mybox.h
+
+E:/GitHub/repository/curriculum_design/Box/mybox.cpp
+mybox.h
+E:/GitHub/repository/curriculum_design/Box/mybox.h
+array.h
+E:/GitHub/repository/curriculum_design/Box/array.h
+
+E:/GitHub/repository/curriculum_design/Box/mybox.h
+windows.h
+-
+ctime
+-
+conio.h
+-
+iostream
+-
+

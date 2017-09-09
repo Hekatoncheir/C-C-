@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GitHub/repository/atm/ATM.cpp
+iostream
+-
+ATM.h
+E:/GitHub/repository/atm/ATM.h
+cstdlib
+-
+ctime
+-
+
+E:/GitHub/repository/atm/ATM.h
+
+E:/GitHub/repository/atm/ATM_PR.cpp
+ATM.h
+E:/GitHub/repository/atm/ATM.h
+iostream
+-
+cstdlib
+-
+

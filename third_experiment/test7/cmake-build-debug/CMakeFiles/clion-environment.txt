@@ -1,0 +1,2 @@
+ToolSet: 3.22@C:\Mingw
+CMake: 3.7.1@D:\jetbrains\Cmake\bin\cmake.exe
